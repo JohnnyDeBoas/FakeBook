@@ -6,6 +6,9 @@ require('./db/index');
 class App{
     constructor(){
         this.server = express();
+        this.server.get('/',(request, response) => {
+            return response.json({message: 'server is up'})
+        })
         this.middlewares();
         this.routes();
     }
