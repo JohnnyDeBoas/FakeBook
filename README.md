@@ -3,9 +3,11 @@
 
 ## Steps:
 
-Step 1 :Iniciar o back-end com o comando **`yarn start`** na diretório [backend-fakebook](https://github.com/JohnnyDeBoas/FakeBook/tree/master/backend-fakebook "backend-fakebook").
+Step 1: Iniciar o back-end com o comando **`yarn start`** na diretório [backend-fakebook](https://github.com/JohnnyDeBoas/FakeBook/tree/master/backend-fakebook "backend-fakebook").
 
-Step 2: Visualização do front-end, excecutar **`quasar dev`** no diretório [fakebook](https://github.com/JohnnyDeBoas/FakeBook/tree/master/fakebook "fakebook")
+Step 2: Instalar o Quasar com o comando `yarn global add @quasar/cli`
+
+Step 3: Visualização do front-end, excecutar **`quasar dev`** no diretório [fakebook](https://github.com/JohnnyDeBoas/FakeBook/tree/master/fakebook "fakebook")
 
 ------------
 
