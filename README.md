@@ -7,7 +7,16 @@ Step 1 :Iniciar o back-end com o comando **`yarn start`** na diretório [backend
 
 Step 2: Visualização do front-end, excecutar **`quasar dev`** no diretório [fakebook](https://github.com/JohnnyDeBoas/FakeBook/tree/master/fakebook "fakebook")
 
+------------
 
+<h2 id="tecnologias">Tecnologias</h2>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 ------------
 
 Releases:
